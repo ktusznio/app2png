@@ -1,6 +1,6 @@
 {
-  "name": "app2png",
-  "version": "1.0.0",
+  "name": "@ktusznio/app2png",
+  "version": "1.0.1",
   "description": "Extract a Mac App's icon to a png file to be used.",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/tinytacoteam/app2png.git"
   },
-  "author": "Tiny Taco Team",
+  "author": "Kamil Tusznio",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/tinytacoteam/app2png/issues"
+    "url": "https://github.com/ktusznio/app2png/issues"
   },
-  "homepage": "https://github.com/tinytacoteam/app2png#readme",
+  "homepage": "https://github.com/ktusznio/app2png#readme",
   "dependencies": {
     "simple-plist": "^1.1.0"
   }
